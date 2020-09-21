@@ -27,7 +27,7 @@ end
 
 def return_string_array(array)
   
-  array.collect
+  array.collect { |x| }
   
 end
 

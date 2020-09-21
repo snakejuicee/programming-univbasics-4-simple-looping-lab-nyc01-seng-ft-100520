@@ -20,7 +20,7 @@ end
 
 def output_array(array)
   
-  array.each {|x| print x}
+  array.each {|x| puts x}
   
 end
 
